@@ -15,16 +15,6 @@
 
 ---
 
-## About Me
-
-I'm a developer focused primarily on **backend development** and building software systems.
-
-My main language is **Go**, with experience across backend development, databases, infrastructure, monitoring, containers, messaging systems and web technologies.
-
-I also work with **Swift** and **Python**, and have experience with TypeScript/React and various development tools.
-
----
-
 ## Skills
 
 <p align="center">
