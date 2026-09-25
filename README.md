@@ -1,16 +1,44 @@
-## Hi there 👋
+<h1 align="center">Привет! 👋</h1>
 
-<!--
-**Cautro/Cautro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Добро пожаловать в мой профиль! Здесь я собираю свои проекты, эксперименты и стек технологий, с которыми работаю каждый день.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center">🛠️ Навыки и Технологии</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev" alt="Мой стек технологий" />
+  </a>
+</p>
+
+---
+
+<h2 align="center">📊 Моя активность в GitHub</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com" />
+    <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com" />
+    <img alt="github-arcade-game" src="https://githubusercontent.com" />
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://vercel.app" alt="GitHub Stats" />
+</p>
+
+---
+
+<h2 align="center">📫 Как со мной связаться</h2>
+
+<p align="center">
+  <a href="https://t.me">
+    <img src="https://shields.io" alt="Telegram" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://shields.io" alt="Email" />
+  </a>
+</p>
