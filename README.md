@@ -33,20 +33,6 @@ I also work with **Swift** and **Python**, and have experience with TypeScript/R
 
 ---
 
-## GitHub
-
-<p align="center">
-  <a href="https://github.com/Cautro">
-    <img src="https://github-readme-stats.vercel.app/api?username=Cautro&show_icons=true&hide_border=true&theme=transparent" alt="GitHub Stats">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Cautro">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cautro&layout=compact&hide_border=true&theme=transparent" alt="Top Languages">
-  </a>
-</p>
-
 ## Snake
 
 <p align="center">
